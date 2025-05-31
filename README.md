@@ -4,10 +4,6 @@ A sleek and minimal weather application built using **React**, **Vite**, and **T
 
 ---
 
-## 📸 Screenshots
-
----
-
 ## 🚀 Features
 
 - 🔍 Search for real-time weather by city name
